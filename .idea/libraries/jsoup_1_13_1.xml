@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="jsoup-1.13.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../BeblioJava/jsoup-1.13.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../BeblioJava/json-simple-1.1.jar!/" />
+      <root url="file://$PROJECT_DIR$/.." />
+      <root url="jar://$PROJECT_DIR$/../BeblioJava/java-json.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../BeblioJava/jsoup-1.13.1-sources.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Examen java/src" />
+      <root url="file://$PROJECT_DIR$/../Scopus-Java-API-master/Scopus-Java-Api/src" />
+      <root url="file://$PROJECT_DIR$/src" />
+      <root url="jar://$PROJECT_DIR$/../BeblioJava/java-json.jar!/" />
+    </SOURCES>
+  </library>
+</component>
