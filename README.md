@@ -39,7 +39,7 @@ JSON is a light-weight, language independent, data interchange format. See http:
 ## 5.CONTACT 
 * BELAOUAD SAAD Saadbalaouaded@gmail.com
 * MSALHA SALMA salmamsalha23@gmail.com
-* ELABBASSI DOUNIA elabbassidounia123@gmail.com
+* EL ABBASSI DOUNIA elabbassidounia123@gmail.com
 
   Oriented by : 
   
